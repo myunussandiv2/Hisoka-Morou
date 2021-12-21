@@ -1,5 +1,5 @@
 {
-  "name": "hisoka-morou",
+  "name": "Yunus",
   "version": "1.1.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Dika Ardnt.",
+  "author": "Muhammad Yunus Sandi",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
